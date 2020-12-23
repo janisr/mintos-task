@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrencyList.vue should compute selected currencies 1`] = `
+<ul>
+  
+  <li
+    class="selected undefined"
+  >
+    <label>
+      EUR
+    </label>
+    <!--v-if-->
+  </li>
+  <li
+    class="undefined"
+  >
+    <label>
+      SEK
+    </label>
+    <!--v-if-->
+  </li>
+  
+</ul>
+`;

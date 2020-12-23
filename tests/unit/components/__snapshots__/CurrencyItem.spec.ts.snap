@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrencyItem.vue should render currency item 1`] = `
+<li
+  class="selected all-currencies"
+>
+  <label>
+    EUR
+  </label>
+  <!--v-if-->
+</li>
+`;

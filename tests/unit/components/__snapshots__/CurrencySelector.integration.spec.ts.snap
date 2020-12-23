@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrencySelector.vue should render provided currencies 1`] = `
+<section>
+  <ul>
+    
+    
+  </ul>
+  <div
+    class="seperator"
+  />
+  <ul>
+    
+    <li
+      class="all-currencies"
+    >
+      <label>
+        EUR
+      </label>
+      <!--v-if-->
+    </li>
+    
+  </ul>
+</section>
+`;
+
+exports[`CurrencySelector.vue should render selected currencies 1`] = `
+<section>
+  <ul>
+    
+    <li
+      class="selected selected-currencies"
+    >
+      <label>
+        EUR
+      </label>
+      <span
+        class="remove"
+      >
+        X
+      </span>
+    </li>
+    
+  </ul>
+  <div
+    class="seperator"
+  />
+  <ul>
+    
+    <li
+      class="selected all-currencies"
+    >
+      <label>
+        EUR
+      </label>
+      <!--v-if-->
+    </li>
+    
+  </ul>
+</section>
+`;
